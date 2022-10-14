@@ -1,0 +1,12 @@
+{
+  "name": "vinted-api-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Greensky <david.hesliere@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "vinted-api": "^2.9.1"
+  }
+}
